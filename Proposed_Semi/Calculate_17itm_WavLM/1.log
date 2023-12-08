@@ -1,0 +1,154 @@
+nohup: 忽略输入
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.018316705776394243
+2.203485762502147
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.015392324954232513
+1.7211179936329708
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.009464298943055506
+2.1333700284148027
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.013055839988935655
+1.8627504342728396
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.004708695556331165
+2.119178029693912
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.011506073737626014
+1.6758383927007996
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.014786393785342158
+1.9088944475177356
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.010845455145630534
+2.085439994611494
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.0035531947602365135
+2.0142185207463075
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.006494255484703702
+2.0581143959241133
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.011842448823909557
+1.8394176240585136
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.01667648670537526
+2.3823300497213604
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.004430029531910501
+2.2749379283288316
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.005406647354310766
+1.855237984502661
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.01166855833288063
+2.1893460565391685
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+-0.014348120878682182
+2.2140884572420574
+Some weights of the model checkpoint at /mnt/data1/liyongwei/SSL_Models/patrickvonplaten/wavlm-libri-clean-100h-large were not used when initializing WavLMModel: ['lm_head.bias', 'lm_head.weight']
+- This IS expected if you are initializing WavLMModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing WavLMModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+5531
+5531
+/mnt/data1/liyongwei/conda/envs/sxh/lib/python3.7/site-packages/torch/nn/functional.py:1956: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+0.014834922205681583
+1.8555371349207126
